@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace first_c_sharp.tests
+namespace test_c_sharp.tests
 {
     public class UnitTest1
     {

@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>first_c_sharp.tests</RootNamespace>
+    <RootNamespace>test_c_sharp.tests</RootNamespace>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>
